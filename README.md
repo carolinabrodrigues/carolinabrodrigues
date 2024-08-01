@@ -2,7 +2,7 @@
 <p align="center"><img title="hi dog" alt="hi dog" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdyajFiaXIzNXFza2J4cmdveG1uMXFqbnZreW1nZ3RsZWlseWVlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnsbzAybylCs8/giphy.gif"/>
 <p>Empathetic, goal-oriented, and pragmatic, I understand the root of challenges and deliver high-quality solutions that meet both user needs and business objectives. With a keen focus on the quality of my work and an obsession for understanding the "why" behind user experiences, I'm dedicated to creating meaningful and impactful outcomes in everything I do.</p>
 <br/>
-<p>So, what's next on the horizon? Anything that involves tackling challenges and making a difference. 
+<p>So, what's next on the horizon? Anything that involves tackling challenges and making a difference. And hopefully dogs.
 </p>
 
 <br/>
