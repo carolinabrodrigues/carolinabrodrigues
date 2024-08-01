@@ -1,14 +1,24 @@
 <h1 align="center"> Hi, I'm Carolina ✌️ </h1>
 <p align="center"><img title="hi dog" alt="hi dog" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdyajFiaXIzNXFza2J4cmdveG1uMXFqbnZreW1nZ3RsZWlseWVlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnsbzAybylCs8/giphy.gif"/>
-<p align="center">By day, I'm a Career Advisor at <a href="https://www.ironhack.com/">Ironhack</a>, solving job-related puzzles and giving career tips. By night, I'm coding just for the fun of it!</p>
+<p>Empathetic, goal-oriented, and pragmatic, I understand the root of challenges and deliver high-quality solutions that meet both user needs and business objectives. With a keen focus on the quality of my work and an obsession for understanding the "why" behind user experiences, I'm dedicated to creating meaningful and impactful outcomes in everything I do.</p>
+<br/>
+<p>So, what's next on the horizon? Anything that involves tackling challenges and making a difference. 
+</p>
 
-<p align="center">Whether it's steering careers or crafting code, the essence is the same: <b>solving puzzles for a brighter tomorrow!</b> 🧩✨</p>
 <br/>
 
-## Coolest Projects 🚀
+## Scopes
+- Product Management
+- Project Management
+- UX Research
+- Frontend Development
+
+<br/>
+
+## Products 🚀
 <p>
-  <a href="https://github.com/ritadomar/pawsome-pursuit"><img src="https://img.shields.io/static/v1?label=&message=pawesome-pursuit&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605" /></a>
-<a href="https://github.com/carolinabrods/ironprojects-hub"><img src="https://img.shields.io/static/v1?label=&message=ironprojects-hub&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605" /></a>
+<a href="https://github.com/carolinabrodrigues/ironprojects-hub"><img src="https://img.shields.io/static/v1?label=&message=ironprojects-hub&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605" /></a>
+<a href="https://github.com/carolinabrodrigues/find-my-therapist"><img src="https://img.shields.io/static/v1?label=&message=find-my-therapist&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605" /></a>
 </p>
 
 <br/>
